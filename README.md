@@ -40,7 +40,7 @@ to convert the dictionary to JSON format, and the resultant JSON string is saved
 "data.json" for database storage</b>
 
 - <b> The code then specifies two primary functions: &quot;admin()&quot; and
-"user". The "admin()" function handles administrative activities, whereas the "user()" function
+"user()". The "admin()" function handles administrative activities, whereas the "user()" function
 handles user-specific functions.</b>
 
 <!--
