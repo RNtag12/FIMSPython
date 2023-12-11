@@ -8,7 +8,7 @@ specific data.
 <br />
 
 
-<h2>Libraries and modules Used</h2>
+<h2>Libraries and modules</h2>
 
 - <b>Pandas</b> 
 - <b>Json</b>
@@ -17,9 +17,9 @@ specific data.
 - <b>random</b> 
 
 
-<h2>IDE Used </h2>
+<h2>IDE  </h2>
 
-- <b>Spider Anaconda </b> (21H2)
+- <b>Spider Anaconda </b>
 
 <h2>Program steps:</h2>
 
