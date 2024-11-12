@@ -6,7 +6,8 @@ This robust system offers a number of capabilities for both administrators and u
 items, update current products, delete products, generate purchase reports, and manage user-
 specific data.
 <br />
-# Libraries and modules
+
+## Libraries and modules
 
 - <b>Pandas</b> 
 - <b>Json</b>
