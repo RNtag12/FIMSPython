@@ -18,17 +18,17 @@ specific data.
 
 <h2>IDE  </h2>
 
-- <b>Spider Anaconda </b>
+- Spider Anaconda
 
 <h2>Program steps:</h2>
 
 <p>
   
-- <b> The code begins with the appropriate
+- The code begins with the appropriate
 import lines to include the essential libraries for data processing and file handling, such as
-pandas and json</b> 
+pandas and json
   
-- <b> Import modules such as os.path, time, and random for further functionality</b>
+-  Import modules such as os.path, time, and random for further functionality</b>
 
 - <b> A dictionary named "available_products"; is constructed to contain
 the initial fruit data. Each fruit is represented by a unique product ID, and its data such as name,
