@@ -28,19 +28,19 @@ specific data.
 import lines to include the essential libraries for data processing and file handling, such as
 pandas and json
   
--  Import modules such as os.path, time, and random for further functionality</b>
+-  Import modules such as os.path, time, and random for further functionality
 
-- <b> A dictionary named "available_products"; is constructed to contain
+-  A dictionary named "available_products"; is constructed to contain
 the initial fruit data. Each fruit is represented by a unique product ID, and its data such as name,
-price, origin, quantity, and date are saved as dictionary values</b>
+price, origin, quantity, and date are saved as dictionary values
 
-- <b> The json.dumps() function is used
+   The json.dumps() function is used
 to convert the dictionary to JSON format, and the resultant JSON string is saved to a file named
-"data.json" for database storage</b>
+"data.json" for database storage
 
-- <b> The code then specifies two primary functions: &quot;admin()&quot; and
+- The code then specifies two primary functions: &quot;admin()&quot; and
 "user()". The "admin()" function handles administrative activities, whereas the "user()" function
-handles user-specific functions.</b>
+handles user-specific functions.
 
 <!--
  ```diff
