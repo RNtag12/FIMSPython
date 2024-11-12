@@ -34,7 +34,7 @@ pandas and json
 the initial fruit data. Each fruit is represented by a unique product ID, and its data such as name,
 price, origin, quantity, and date are saved as dictionary values
 
-   The json.dumps() function is used
+- The json.dumps() function is used
 to convert the dictionary to JSON format, and the resultant JSON string is saved to a file named
 "data.json" for database storage
 
